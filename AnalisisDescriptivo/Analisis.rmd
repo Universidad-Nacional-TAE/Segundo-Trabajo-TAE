@@ -1,0 +1,4 @@
+### Analisis
+
+En este apartado se agrega los archivos de extension ipynb, para que el lector entienda con la base datos de que trata el planteamiento de la predicción
+y con que variables se trabajar para los modelos predictivos.
