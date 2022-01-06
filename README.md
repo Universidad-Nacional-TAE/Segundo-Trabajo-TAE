@@ -15,6 +15,12 @@ La creación de un modelo que permita predecir el número de vehículos registra
  La base de datos que tenemos como insumo para analizar e implementar modelos predictivos, contiene 2 columnas con las variables **Fecha** dato numerico de fecha y **Unidades** dato entero real ,las cuales son muy dicientes, y pueden ser usadas, especialmente la primer variable mencionada, para la creación y reclasificación de nuevas variables que puedan tener efectos significativos sobre la variable respuesta, que en este caso es el número de registros diarios.
 
 La estructura de las variables que contiene los datos es la siguiente:
+
+![](https://github.com/Universidad-Nacional-TAE/Segundo-Trabajo-TAE/blob/main/Images/ImagenBase.png)
+
+Se realiza un grafica de los datos adquiridos para ver su comportamiento en el tiempo en esos 6 años, a como cambia la adquisición de los vehiculos legales mes a mes en el pais colombiano.
+
+Se puede observar que cada mes es variable en su icremento de inscripción de vehiculos, por tanto a simple inspección no se puede denotar como un sistema lineal variable en el tiempo, graficamente se aporta que cada año que pasa del 2012 a 2017 tiende a disminuir el numero de vehiculos inscritos, ecxeptuando el año 2013 y 2014, siendo este ultimo mayor ante su antecesor, ademas de que en el ultimo mes de cada uno de los años se reportan el mayor ingreso de vehiculos al registro del sistema de transito nacional, esto puede ser debido a la fiestas dicembrinas del pais y su cultura de compra en estas fechas en el pais colombiano.
 #### Metodologia
 
 #### Resultados obtenidos
